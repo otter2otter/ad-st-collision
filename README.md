@@ -7,7 +7,7 @@ Vincenzo Landi
 Andrea Doria e Stockholm. Analisi forense della collisione e dell’affondamento.
 Amazon KDP, 2026
 
-This repository contains Python scripts developed to simulate the routes of the turbine liner Andrea Doria and the motor ship Stockholm, which led to their collision on the evening of July 25, 1956, and the sinking of the Andrea Doria the following morning.
+This repository contains Python scripts developed to simulate the routes of the SS Andrea Doria and the MS Stockholm, which led to their collision on the evening of July 25, 1956, and the sinking of the Andrea Doria the following morning.
 The data used in the simulations are real, with the exception of those regarding the ocean currents that influenced the navigation of both vessels, particularly the Stockholm. The current data were estimated based on the best available knowledge.
 All details can be found in the book:
 Vincenzo Landi
