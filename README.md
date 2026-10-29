@@ -15,6 +15,7 @@ Andrea Doria e Stockholm - Analisi forense della collisione e dell’affondament
 Amazon KDP, 2026.
 
 La prima simulazione calcola la rotta della Stockholm dalla nave-faro Ambrose LV-87 fino al momento della collisione. Essa fu senz'altro influenzata dalle correnti, poiché date la distanza tra la nave Ambrose e il punto della collisione, la velocità della nave e il tempo realmente impiegato, non sarebbe stato possibile percorrere tale distanza in tale tempo a quella velocità, neanche percorrendo la rotta più diretta senza variazioni. Ogni ulteriore informazione a riguardo sarà grandemente apprezzata e impiegata per affinare la simulazione. 
+
 The first simulation calculates the Stockholm's route from the Ambrose Lightship (LV-87) up to the moment of the collision. This was certainly influenced by currents, since, given the distance between the Ambrose Lightship and the collision point, the ship's speed, and the actual time taken, it would not have been possible to cover that distance in that time at that speed, even by taking the most direct route without any course changes. Any further information on this subject will be greatly appreciated and used to refine the simulation.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/otter2otter/ad-st-collision/blob/main/STOCKHOLM_COURSE_SIMULATOR_V1_3.ipynb)
